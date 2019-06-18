@@ -1,2 +1,2 @@
 # Sensor
-Working with sensors to collect and filter data
+Working with sensors in Arduino IDE to collect and filter data
